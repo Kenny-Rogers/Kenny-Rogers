@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kenny-Rogers
 - 👀 I’m interested in software development, machine learning and blockchain technologies.
-- 🌱 I’m currently learning blockchains.
 - 💞️ I’m looking to collaborate on any of the above.
 - 📫 How to reach me ylodonu@gmail.com
 
